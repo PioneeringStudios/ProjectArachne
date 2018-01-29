@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProjectArachne.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"M:\New programs\New folder\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"M:\PS Art\ProjectArachne\ProjectArachne 4.18 - 3\Intermediate\Build\Win64\UE4Editor\Development\ProjectArachne\ProjectArachne.cpp.obj"
+"M:\PS Art\ProjectArachne\ProjectArachne 4.18 - 3\Intermediate\Build\Win64\UE4Editor\Development\ProjectArachne\ProjectArachneGameModeBase.cpp.obj"
+"M:\PS Art\ProjectArachne\ProjectArachne 4.18 - 3\Intermediate\Build\Win64\UE4Editor\Development\ProjectArachne\ProjectArachne.init.gen.cpp.obj"
+"M:\PS Art\ProjectArachne\ProjectArachne 4.18 - 3\Intermediate\Build\Win64\UE4Editor\Development\ProjectArachne\ProjectArachneGameModeBase.gen.cpp.obj"
+"M:\New programs\New folder\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ProjectArachne\PCLaunch.rc.res"
+"M:\New programs\New folder\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"M:\PS Art\ProjectArachne\ProjectArachne 4.18 - 3\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ProjectArachne.lib"

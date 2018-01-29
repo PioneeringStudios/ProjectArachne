@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\ProjectArachne.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{433177CA-FBE6-4453-BFE7-A5635D67681D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ProjectArachne.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ProjectArachneEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{26EFF703-B2A6-4562-8380-CD0C3D9FE324}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\ProjectArachne">
+			<UniqueIdentifier>{0964E1FB-C80B-4311-ADA1-7F0864B178FD}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ProjectArachne\ProjectArachne.Build.cs">
+			<Filter>Source\ProjectArachne</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\ProjectArachne\ProjectArachne.cpp">
+			<Filter>Source\ProjectArachne</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ProjectArachne\ProjectArachne.h">
+			<Filter>Source\ProjectArachne</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ProjectArachne\ProjectArachneGameModeBase.cpp">
+			<Filter>Source\ProjectArachne</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ProjectArachne\ProjectArachneGameModeBase.h">
+			<Filter>Source\ProjectArachne</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
