@@ -1,0 +1,1086 @@
+﻿Log file open, 01/28/18 14:48:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectArachne
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(449452145) SRandInit(449452146).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.154713
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Warning: Incompatible or missing module: UE4Editor-ProjectArachne.dll
+Running C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe ProjectArachne Development Win64 -project="D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/ProjectArachne.uproject" -editorrecompile -progress -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build.
+Creating makefile for ProjectArachne (no existing makefile)
+Performing full C++ include scan (no include cache file)
+@progress push 5%
+@progress pop
+Performing 9 actions (4 in parallel)
+[2/9] Resource ModuleVersionResource.rc.inl
+[3/9] Resource PCLaunch.rc
+SharedPCH.Engine.cpp
+ProjectArachne.init.gen.cpp
+ProjectArachneGameModeBase.cpp
+ProjectArachne.cpp
+ProjectArachneGameModeBase.gen.cpp
+[8/9] Link UE4Editor-ProjectArachne.dll
+[9/9] Link UE4Editor-ProjectArachne.lib
+   Creating library D:\pioneeringStudios\ProjectArachne\ProjectArachne 4.18\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ProjectArachne.lib and object D:\pioneeringStudios\ProjectArachne\ProjectArachne 4.18\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ProjectArachne.exp
+   Creating library D:\pioneeringStudios\ProjectArachne\ProjectArachne 4.18\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ProjectArachne.suppressed.lib and object D:\pioneeringStudios\ProjectArachne\ProjectArachne 4.18\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ProjectArachne.suppressed.exp
+Total build time: 51.14 seconds (Local executor: 23.49 seconds)
+LogModuleManager: Display: Found up-to-date module file D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Binaries/Win64/UE4Editor-ProjectArachne.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.28-22.49.20:870][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-22.49.20:870][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.28-22.49.20:877][  0]LogInit: Computer: DESKTOP-U5DOCDN
+[2018.01.28-22.49.20:877][  0]LogInit: User: JaredMills
+[2018.01.28-22.49.20:877][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.28-22.49.20:877][  0]LogInit: High frequency timer resolution =4.101562 MHz
+[2018.01.28-22.49.20:878][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.01.28-22.49.20:878][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.28-22.49.20:878][  0]LogMemory: Process Physical Memory: 276.90 MB used, 276.90 MB peak
+[2018.01.28-22.49.20:878][  0]LogMemory: Process Virtual Memory: 272.48 MB used, 272.48 MB peak
+[2018.01.28-22.49.20:878][  0]LogMemory: Physical Memory: 3809.76 MB used,  12538.90 MB free, 16348.66 MB total
+[2018.01.28-22.49.20:878][  0]LogMemory: Virtual Memory: 695.95 MB used,  12538.90 MB free, 134217728.00 MB total
+[2018.01.28-22.49.20:972][  0]LogInit: Using OS detected language (en-US).
+[2018.01.28-22.49.20:972][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.28-22.49.20:974][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.28-22.49.21:276][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.28-22.49.21:438][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.28-22.49.21:497][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.01.28-22.49.21:497][  0]LogD3D11RHI:       11132/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.28-22.49.21:498][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.28-22.49.21:498][  0]LogD3D11RHI:       0/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.28-22.49.21:498][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.28-22.49.21:503][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.28-22.49.21:503][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.28-22.49.21:503][  0]LogWindows: EnumDisplayDevices:
+[2018.01.28-22.49.21:503][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.01.28-22.49.21:503][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.01.28-22.49.21:503][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.01.28-22.49.21:503][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.01.28-22.49.21:503][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.01.28-22.49.21:503][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.01.28-22.49.21:503][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.01.28-22.49.21:503][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.01.28-22.49.21:503][  0]LogRHI: Texture pool is 7792 MB (70% of 11132 MB)
+[2018.01.28-22.49.21:525][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.28-22.49.21:548][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.28-22.49.21:594][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Intermediate/Shaders/WorkingDirectory/1208/).
+[2018.01.28-22.49.21:594][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jared Mills/AppData/Local/Temp/UnrealShaderWorkingDir/36E704664203FCFDF3FA36A842DB5AA0/'.
+[2018.01.28-22.49.21:594][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.28-22.49.22:404][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.28-22.49.22:438][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.28-22.49.22:473][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.28-22.49.22:508][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.28-22.49.22:543][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.28-22.49.22:578][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.28-22.49.22:613][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.28-22.49.22:647][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.28-22.49.22:677][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.28-22.49.22:711][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.28-22.49.22:745][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.28-22.49.22:778][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.28-22.49.22:811][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.28-22.49.22:844][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.28-22.49.22:912][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.28-22.49.22:912][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.28-22.49.22:945][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.28-22.49.22:972][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.28-22.49.23:038][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.28-22.49.23:056][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.28-22.49.23:089][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.28-22.49.23:123][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.28-22.49.23:158][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.28-22.49.23:191][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.28-22.49.23:191][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.28-22.49.23:495][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.28-22.49.23:562][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Jared Mills/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.28-22.49.23:562][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jared Mills/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.28-22.49.23:562][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.28-22.49.23:562][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.28-22.49.23:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.28-22.49.23:563][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.28-22.49.23:574][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.28-22.49.23:586][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jared Mills/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.28-22.49.23:593][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.28-22.49.23:594][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.28-22.49.23:594][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-22.49.23:594][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-22.49.23:842][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-22.49.24:064][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.28-22.49.24:090][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.28-22.49.24:091][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.28-22.49.24:091][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.28-22.49.24:091][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.28-22.49.24:091][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.28-22.49.24:111][  0]LogNetVersion: ProjectArachne , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1282563010)
+[2018.01.28-22.49.24:232][  0]LogAssetRegistry: FAssetRegistry took 0.0241 seconds to start up
+[2018.01.28-22.49.24:611][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.040270 seconds
+[2018.01.28-22.49.24:616][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.28-22.49.24:616][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.01.28-22.49.24:616][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.28-22.49.24:654][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.28-22.49.26:551][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.28-22.49.26:588][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.28-22.49.27:100][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.28-22.49.27:407][  0]SourceControl: Source control is disabled
+[2018.01.28-22.49.27:407][  0]SourceControl: Source control is disabled
+[2018.01.28-22.49.27:444][  0]SourceControl: Source control is disabled
+[2018.01.28-22.49.27:480][  0]SourceControl: Source control is disabled
+[2018.01.28-22.49.28:036][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.28-22.49.28:225][  0]LogOcInput: OculusInput pre-init called
+[2018.01.28-22.49.28:413][  0]LogEngine: Initializing Engine...
+[2018.01.28-22.49.28:414][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.28-22.49.28:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.28-22.49.28:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.28-22.49.28:679][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.28-22.49.28:684][  0]LogInit: XAudio2 using 'ELEFT195-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-22.49.28:691][  0]LogInit: FAudioDevice initialized.
+[2018.01.28-22.49.28:783][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/Jared Mills/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.28-22.49.28:796][  0]LogInit: Texture streaming: Enabled
+[2018.01.28-22.49.28:865][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.28-22.49.28:865][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={1A89FC3F-48B0-EE1D-9932-7F90B144E1D7}
+[2018.01.28-22.49.28:954][  0]LogInit: Transaction tracking system initialized
+[2018.01.28-22.49.29:170][  0]BlueprintLog: New page: Editor Load
+[2018.01.28-22.49.29:766][  0]LocalizationService: Localization service is disabled
+[2018.01.28-22.49.30:274][  0]LogConsoleResponse: Display: 
+[2018.01.28-22.49.30:408][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.28-22.49.30:408][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.28-22.49.30:408][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.28-22.49.30:571][  0]LogFileCache: Scanning file cache for directory 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/' took 0.01s
+[2018.01.28-22.49.31:202][  0]SourceControl: Source control is disabled
+[2018.01.28-22.49.31:202][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-22.49.31:202][  0]LightingResults: New page: Lighting Build
+[2018.01.28-22.49.31:230][  0]MapCheck: New page: Map Check
+[2018.01.28-22.49.31:230][  0]LightingResults: New page: Lighting Build
+[2018.01.28-22.49.31:388][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.28-22.49.31:393][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-22.49.31:401][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-22.49.31:432][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 30.499ms to complete.
+[2018.01.28-22.49.31:432][  0]LogFileHelpers: Loading map 'Template_Default' took 0.230
+[2018.01.28-22.49.31:576][  0]LogCollectionManager: Loaded 0 collections in 0.001024 seconds
+[2018.01.28-22.49.31:683][  0]LogFileCache: Scanning file cache for directory 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Saved/Collections/' took 0.01s
+[2018.01.28-22.49.31:683][  0]LogFileCache: Scanning file cache for directory 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Developers/JaredMills/Collections/' took 0.01s
+[2018.01.28-22.49.31:684][  0]LogFileCache: Scanning file cache for directory 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Collections/' took 0.01s
+[2018.01.28-22.49.31:684][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.28-22.49.31:692][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 2364 classes and 521 folders.
+[2018.01.28-22.49.31:738][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.01.28-22.49.32:050][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.28-22.49.32:090][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.28-22.49.32:137][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-22.49.32:139][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.28-22.49.32:148][  0]LogSlate: Took 0.004410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.28-22.49.32:198][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.01.28-22.49.32:262][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2018.01.28-22.49.32:486][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.28-22.49.32:487][  0]LogLoad: (Engine Initialization) Total time: 67.89 seconds
+[2018.01.28-22.49.32:487][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.28-22.49.32:487][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.28-22.49.32:496][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.28-22.49.32:520][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.28-22.49.32:552][  0]LogSlate: Took 0.005152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-22.49.32:569][  1]LogAssetRegistry: Asset discovery search completed in 8.3584 seconds
+[2018.01.28-22.49.32:572][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.28-22.49.32:572][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000094 seconds (updated 0 objects)
+[2018.01.28-22.49.41:145][ 23]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 64X64)
+[2018.01.28-22.49.41:875][ 23]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.01.28-22.49.42:128][ 23]LogTexture: Display: Building textures: panel_diffuse (AutoDXT, 4096X4096)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 64X64)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (BGRA8, 1024X1024)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (BGRA8, 256X64)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (BGRA8, 1024X1024)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (BGRA8, 512X64)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (BGRA8, 128X32)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (BGRA8, 32X32)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (BGRA8, 32X32)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (BGRA8, 32X32)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (BGRA8, 32X32)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (BGRA8, 32X32)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (BGRA8, 32X32)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (BGRA8, 32X32)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (BGRA8, 32X32)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (BGRA8, 32X32)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (BGRA8, 32X32)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: Panel_Normal_Map (BC5, 4096X4096)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: pipe_normal (BC5, 4096X4096)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (DXT1, 512X512)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (DXT1, 512X512)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: Pipe_diffuse (AutoDXT, 4096X4096)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2018.01.28-22.49.45:435][ 23]LogTexture: Display: Building textures: T_ML_Aluminum01 (DXT1, 512X512)
+[2018.01.28-22.49.45:446][ 23]LogMaterial: Missing cached shader map for material Floor_panel, compiling. 
+[2018.01.28-22.49.45:503][ 23]LogMaterial: Missing cached shader map for material Black, compiling. 
+[2018.01.28-22.49.45:576][ 23]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.01.28-22.49.46:740][ 23]LogMaterial: Missing cached shader map for material wall_pipe, compiling. 
+[2018.01.28-22.49.46:774][ 23]LogMaterial: Missing cached shader map for material GunTestMaterial, compiling. 
+[2018.01.28-22.49.46:805][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/AimPoses/Aim_Center.Aim_Center
+[2018.01.28-22.49.46:806][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/AimPoses/Aim_Center.Aim_Center) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:807][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2018.01.28-22.49.46:807][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:811][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/AimPoses/Aim_Center_Down.Aim_Center_Down
+[2018.01.28-22.49.46:811][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/AimPoses/Aim_Center_Down.Aim_Center_Down) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:811][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/AimPoses/Aim_Center_Up.Aim_Center_Up
+[2018.01.28-22.49.46:811][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/AimPoses/Aim_Center_Up.Aim_Center_Up) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:812][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2018.01.28-22.49.46:812][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_33) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:815][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2018.01.28-22.49.46:815][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:819][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2018.01.28-22.49.46:819][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:822][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2018.01.28-22.49.46:822][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Jump_From_Jog.Jump_From_Jog) using current/default (AnimCompress_BitwiseCompressOnly_38) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:823][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2018.01.28-22.49.46:823][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:825][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2018.01.28-22.49.46:825][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Jump_From_Stand.Jump_From_Stand) using current/default (AnimCompress_BitwiseCompressOnly_39) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:826][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2018.01.28-22.49.46:826][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:827][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2018.01.28-22.49.46:827][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_9) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:829][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2018.01.28-22.49.46:829][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:830][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2018.01.28-22.49.46:830][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_58) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:831][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2018.01.28-22.49.46:832][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_59) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:833][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2018.01.28-22.49.46:833][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_61) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:843][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2018.01.28-22.49.46:843][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_60) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.46:850][ 23]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.01.28-22.49.47:030][ 23]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.01.28-22.49.47:291][ 23]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-22.49.47:369][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2018.01.28-22.49.47:369][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.47:370][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2018.01.28-22.49.47:370][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.47:371][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2018.01.28-22.49.47:372][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.47:373][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2018.01.28-22.49.47:373][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.47:374][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2018.01.28-22.49.47:374][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.47:375][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2018.01.28-22.49.47:375][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.47:377][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2018.01.28-22.49.47:377][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.47:378][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2018.01.28-22.49.47:378][ 23]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-22.49.47:382][ 23]LogAIModule: Creating AISystem for world SpaceStation
+[2018.01.28-22.49.47:515][ 23]Cmd: MAP LOAD FILE="D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Maps/SpaceStation.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-22.49.47:515][ 23]LightingResults: New page: Lighting Build
+[2018.01.28-22.49.47:516][ 23]LoadErrors: New page: Loading map: SpaceStation.umap
+[2018.01.28-22.49.47:516][ 23]MapCheck: New page: Map Check
+[2018.01.28-22.49.47:516][ 23]LightingResults: New page: Lighting Build
+[2018.01.28-22.49.47:567][ 23]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-22.49.47:600][ 23]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-22.49.47:661][ 23]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.709ms to complete.
+[2018.01.28-22.49.47:661][ 23]LogFileHelpers: Loading map 'SpaceStation' took 0.147
+[2018.01.28-22.50.01:766][631]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-22.50.01:832][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-22.50.01:834][631]PIE: New page: PIE session: SpaceStation (Jan 28, 2018, 6:50:01 AM)
+[2018.01.28-22.50.01:834][631]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceStation
+[2018.01.28-22.50.01:873][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039038s)
+[2018.01.28-22.50.01:873][631]LogAIModule: Creating AISystem for world SpaceStation
+[2018.01.28-22.50.01:874][631]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2018.01.28-22.50.01:874][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceStation.SpaceStation to /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation (0.040737s)
+[2018.01.28-22.50.01:886][631]LogInit: XAudio2 using 'ELEFT195-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-22.50.01:894][631]LogInit: FAudioDevice initialized.
+[2018.01.28-22.50.01:985][631]LogLinker: Warning: Can't find file '/Game/M_my_flare'
+[2018.01.28-22.50.01:985][631]LogLinker: Warning: Can't find file for asset '/Game/M_my_flare' while loading D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Particles/P_Logo_Flare.uasset.
+[2018.01.28-22.50.01:985][631]LoadErrors: Error: /Game/Particles/P_Logo_Flare : Can't find file for asset. /Game/M_my_flare
+[2018.01.28-22.50.01:985][631]LogLinker: Warning: Can't find file '/Game/M_my_flare'
+[2018.01.28-22.50.01:985][631]LogLinker: Warning: Can't find file for asset '/Game/M_my_flare' while loading D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Particles/P_Logo_Flare.uasset.
+[2018.01.28-22.50.02:004][631]LogLinker: Warning: Can't find file '/Game/M_my_flare'
+[2018.01.28-22.50.02:004][631]LoadErrors: Failed to load /Game/M_my_flare.m_my_flare Referenced by ParticleModuleRequired_4
+[2018.01.28-22.50.02:004][631]LogLinker: Warning: Can't find file for asset '/Game/M_my_flare' while loading NULL.
+[2018.01.28-22.50.02:009][631]LogMaterial: Missing cached shader map for material M_smoke_subUV_blackbody, compiling. 
+[2018.01.28-22.50.02:047][631]LogMaterial: Missing cached shader map for material GunTestMaterial2, compiling. 
+[2018.01.28-22.50.02:072][631]LogMaterial: Missing cached shader map for material GunTestMaterial1, compiling. 
+[2018.01.28-22.50.02:099][631]LogLoad: Game class is 'MyGameMode_C'
+[2018.01.28-22.50.02:117][631]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation up for play (max tick rate 0) at 2018.01.28-14.50.02
+[2018.01.28-22.50.02:121][631]LogWorld: Bringing up level for play took: 0.020468
+[2018.01.28-22.50.02:171][631]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.01.28-22.50.02:179][631]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceStation 1.117
+[2018.01.28-22.50.02:246][632]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095715 > MaxSimulationTimeStep (0.050) for 'Ravanger_122', movement 'Walking'
+[2018.01.28-22.50.02:246][632]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095715 > MaxSimulationTimeStep (0.050) for 'Ravanger3', movement 'Walking'
+[2018.01.28-22.50.33:105][174]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-22.50.33:105][174]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.33:106][174]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-22.50.33:106][174]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.33:291][194]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-22.50.33:291][194]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.33:291][194]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-22.50.33:291][194]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.33:394][206]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-22.50.33:394][206]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.33:394][206]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-22.50.33:394][206]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.33:503][219]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-22.50.33:503][219]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.33:503][219]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-22.50.33:503][219]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.33:602][231]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-22.50.33:602][231]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.33:602][231]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-22.50.33:602][231]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.33:702][243]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-22.50.33:702][243]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.33:702][243]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-22.50.33:702][243]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.33:878][264]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-22.50.33:878][264]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.33:878][264]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-22.50.33:878][264]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:011][280]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-22.50.34:011][280]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:011][280]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-22.50.34:011][280]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:111][292]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-22.50.34:111][292]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:111][292]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:210][304]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:211][304]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:311][316]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:311][316]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:410][328]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:410][328]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:511][340]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:511][340]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:610][352]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:610][352]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:711][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:711][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:810][376]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:811][376]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:911][388]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.34:911][388]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:011][400]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:011][400]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:111][412]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:111][412]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:211][424]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:211][424]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:311][436]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:311][436]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:411][448]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:411][448]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:511][460]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:511][460]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:611][472]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:611][472]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:711][484]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:711][484]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:811][496]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:811][496]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:911][508]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.35:911][508]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.36:011][520]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.36:011][520]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.36:110][532]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.36:111][532]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.36:211][544]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.36:211][544]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.42:157][257]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.42:157][257]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.42:256][269]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.42:257][269]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.42:356][281]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.42:356][281]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.42:457][293]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.42:457][293]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.43:557][425]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.43:558][425]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.43:656][437]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.43:657][437]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.43:757][449]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.43:757][449]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.43:856][461]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.43:857][461]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.43:957][473]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.43:957][473]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.44:056][485]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.44:057][485]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.44:157][497]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.44:157][497]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.44:256][509]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.44:257][509]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.44:357][521]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.44:357][521]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.44:457][533]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.44:457][533]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.47:809][935]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.47:809][935]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.47:909][947]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.47:910][947]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.48:010][959]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.48:010][959]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.48:112][971]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.48:112][971]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.53:664][637]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.53:664][637]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.54:774][770]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.54:774][770]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.55:962][912]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.55:962][912]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.56:963][ 32]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.56:964][ 32]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.58:299][192]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.58:299][192]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.59:299][312]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.50.59:299][312]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:247][660]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:247][660]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:350][672]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:350][672]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:450][684]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:450][684]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:550][696]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:550][696]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:652][708]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:652][708]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:752][720]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:752][720]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:852][732]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:853][732]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:953][744]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.02:953][744]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.03:053][756]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.03:053][756]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.03:153][768]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.03:153][768]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.03:254][780]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.03:254][780]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.03:354][792]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.03:354][792]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.05:614][ 63]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.05:614][ 63]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-22.51.15:368][199]Cmd: QUIT_EDITOR
+[2018.01.28-22.51.16:065][199]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.28-22.51.16:075][199]LogExit: Preparing to exit.
+[2018.01.28-22.51.16:651][199]LogExit: Editor shut down
+[2018.01.28-22.51.16:654][199]LogExit: Transaction tracking system shut down
+[2018.01.28-22.51.16:748][199]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.28-22.51.16:748][199]LogDirectoryWatcher: A directory notification for 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/' was aborted.
+[2018.01.28-22.51.16:748][199]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.28-22.51.16:748][199]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.28-22.51.16:748][199]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.28-22.51.16:748][199]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.28-22.51.16:748][199]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.28-22.51.16:783][199]LogExit: Object subsystem successfully closed.
+[2018.01.28-22.51.16:801][199]LogD3D11RHI: Shutdown
+[2018.01.28-22.51.16:801][199]LogD3D11RHI: CleanupD3DDevice
+[2018.01.28-22.51.16:803][199]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.28-22.51.16:814][199]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.01.28-22.51.16:814][199]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.01.28-22.51.16:814][199]LogModuleManager: Shutting down and abandoning module SceneOutliner (550)
+[2018.01.28-22.51.16:814][199]LogModuleManager: Shutting down and abandoning module AddContentDialog (548)
+[2018.01.28-22.51.16:815][199]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.28-22.51.16:815][199]LogModuleManager: Shutting down and abandoning module WidgetCarousel (547)
+[2018.01.28-22.51.16:815][199]LogModuleManager: Shutting down and abandoning module EditorWidgets (544)
+[2018.01.28-22.51.16:815][199]LogModuleManager: Shutting down and abandoning module CollectionManager (542)
+[2018.01.28-22.51.16:815][199]LogDirectoryWatcher: A directory notification for 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Collections/' was aborted.
+[2018.01.28-22.51.16:815][199]LogDirectoryWatcher: A directory notification for 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Developers/JaredMills/Collections/' was aborted.
+[2018.01.28-22.51.16:815][199]LogDirectoryWatcher: A directory notification for 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Saved/Collections/' was aborted.
+[2018.01.28-22.51.16:815][199]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (540)
+[2018.01.28-22.51.16:815][199]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.01.28-22.51.16:816][199]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.01.28-22.51.17:052][199]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.01.28-22.51.17:052][199]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.01.28-22.51.17:052][199]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.01.28-22.51.17:052][199]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.01.28-22.51.17:052][199]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.01.28-22.51.17:052][199]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.01.28-22.51.17:052][199]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.01.28-22.51.17:052][199]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.01.28-22.51.17:053][199]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.01.28-22.51.17:053][199]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.01.28-22.51.17:053][199]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.01.28-22.51.17:053][199]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.01.28-22.51.17:053][199]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.01.28-22.51.17:053][199]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.01.28-22.51.17:053][199]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.01.28-22.51.17:053][199]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.01.28-22.51.17:053][199]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.01.28-22.51.17:053][199]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.01.28-22.51.17:054][199]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.01.28-22.51.17:054][199]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.01.28-22.51.17:054][199]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.01.28-22.51.17:054][199]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.01.28-22.51.17:054][199]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.01.28-22.51.17:054][199]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.01.28-22.51.17:106][199]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.01.28-22.51.17:106][199]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.01.28-22.51.17:106][199]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.01.28-22.51.17:106][199]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.01.28-22.51.17:106][199]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.01.28-22.51.17:106][199]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.01.28-22.51.17:106][199]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.01.28-22.51.17:106][199]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.01.28-22.51.17:106][199]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.01.28-22.51.17:106][199]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.01.28-22.51.17:107][199]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module HTML5Networking (320)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module AlembicImporter (318)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module AlembicLibrary (317)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module GeometryCache (316)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (315)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (310)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module PluginBrowser (308)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (306)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (304)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (302)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module UObjectPlugin (300)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (296)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2018.01.28-22.51.17:246][199]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2018.01.28-22.51.17:247][199]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2018.01.28-22.51.17:247][199]LogModuleManager: Shutting down and abandoning module MainFrame (278)
+[2018.01.28-22.51.17:247][199]LogModuleManager: Shutting down and abandoning module HotReload (277)
+[2018.01.28-22.51.17:247][199]LogDirectoryWatcher: A directory notification for 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Binaries/Win64' was aborted.
+[2018.01.28-22.51.17:247][199]LogModuleManager: Shutting down and abandoning module ProjectArachne (272)
+[2018.01.28-22.51.17:247][199]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2018.01.28-22.51.17:247][199]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2018.01.28-22.51.17:247][199]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2018.01.28-22.51.17:247][199]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2018.01.28-22.51.17:247][199]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2018.01.28-22.51.17:247][199]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2018.01.28-22.51.17:247][199]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2018.01.28-22.51.17:247][199]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2018.01.28-22.51.17:348][199]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2018.01.28-22.51.17:578][199]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (252)
+[2018.01.28-22.51.17:578][199]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (250)
+[2018.01.28-22.51.17:578][199]LogModuleManager: Shutting down and abandoning module FacialAnimation (248)
+[2018.01.28-22.51.17:578][199]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (246)
+[2018.01.28-22.51.17:578][199]LogModuleManager: Shutting down and abandoning module GraphEditor (245)
+[2018.01.28-22.51.17:578][199]LogModuleManager: Shutting down and abandoning module ContentBrowser (243)
+[2018.01.28-22.51.17:579][199]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (240)
+[2018.01.28-22.51.17:579][199]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.01.28-22.51.17:579][199]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.01.28-22.51.17:579][199]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.01.28-22.51.17:579][199]LogModuleManager: Shutting down and abandoning module ImgMedia (232)
+[2018.01.28-22.51.17:579][199]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.01.28-22.51.17:579][199]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.01.28-22.51.17:579][199]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.01.28-22.51.17:579][199]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.01.28-22.51.17:579][199]LogModuleManager: Shutting down and abandoning module Media (223)
+[2018.01.28-22.51.17:584][199]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2018.01.28-22.51.17:584][199]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2018.01.28-22.51.17:584][199]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2018.01.28-22.51.17:584][199]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2018.01.28-22.51.17:584][199]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2018.01.28-22.51.17:584][199]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2018.01.28-22.51.17:585][199]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2018.01.28-22.51.17:585][199]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2018.01.28-22.51.17:585][199]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2018.01.28-22.51.17:585][199]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2018.01.28-22.51.17:585][199]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2018.01.28-22.51.17:585][199]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2018.01.28-22.51.17:585][199]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2018.01.28-22.51.17:585][199]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2018.01.28-22.51.17:585][199]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2018.01.28-22.51.17:585][199]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2018.01.28-22.51.17:586][199]LogModuleManager: Shutting down and abandoning module MRMesh (186)
+[2018.01.28-22.51.17:586][199]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (184)
+[2018.01.28-22.51.17:586][199]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (182)
+[2018.01.28-22.51.17:586][199]LogModuleManager: Shutting down and abandoning module XAudio2 (180)
+[2018.01.28-22.51.17:586][199]LogModuleManager: Shutting down and abandoning module Networking (178)
+[2018.01.28-22.51.17:586][199]LogModuleManager: Shutting down and abandoning module Core (174)
+[2018.01.28-22.51.17:586][199]LogModuleManager: Shutting down and abandoning module LevelSequence (170)
+[2018.01.28-22.51.17:586][199]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (168)
+[2018.01.28-22.51.17:587][199]LogModuleManager: Shutting down and abandoning module KismetCompiler (166)
+[2018.01.28-22.51.17:587][199]LogModuleManager: Shutting down and abandoning module MeshUtilities (164)
+[2018.01.28-22.51.17:587][199]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (163)
+[2018.01.28-22.51.17:587][199]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (162)
+[2018.01.28-22.51.17:587][199]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (161)
+[2018.01.28-22.51.17:587][199]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (159)
+[2018.01.28-22.51.17:587][199]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (157)
+[2018.01.28-22.51.17:587][199]LogModuleManager: Shutting down and abandoning module MaterialBaking (153)
+[2018.01.28-22.51.17:587][199]LogModuleManager: Shutting down and abandoning module DerivedDataCache (150)
+[2018.01.28-22.51.17:662][199]LogDerivedDataCache: Shutdown
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (99)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (97)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (95)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (93)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module AugmentedReality (53)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (50)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (46)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module XMPP (45)
+[2018.01.28-22.51.17:662][199]LogModuleManager: Shutting down and abandoning module HTTP (43)
+[2018.01.28-22.51.17:663][199]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.28-22.51.17:663][199]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B697697E5-4966-8E87-6129-738C53A1D4C7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=c1993cfb42b0596195eae8af986de7ec%7C0b9db021556043618963c05c446187a1%7Ceff9ae66-0bdf-43a4-a5f6-a689dbc9f69a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.28-22.51.17:692][199]LogModuleManager: Shutting down and abandoning module SSL (42)
+[2018.01.28-22.51.17:693][199]LogModuleManager: Shutting down and abandoning module DesktopPlatform (38)
+[2018.01.28-22.51.17:693][199]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.28-22.51.17:693][199]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.28-22.51.17:693][199]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.28-22.51.17:693][199]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.28-22.51.17:693][199]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.28-22.51.17:693][199]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.28-22.51.17:693][199]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.28-22.51.17:694][199]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.28-22.51.17:694][199]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.28-22.51.17:694][199]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.28-22.51.17:694][199]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.28-22.51.17:694][199]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.28-22.51.17:694][199]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.28-22.51.17:694][199]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.28-22.51.17:694][199]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.28-22.51.17:694][199]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.28-22.51.17:694][199]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.28-22.51.17:694][199]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.28-22.51.17:696][199]LogExit: Exiting.
+[2018.01.28-22.51.17:703][199]Log file closed, 01/28/18 14:51:17

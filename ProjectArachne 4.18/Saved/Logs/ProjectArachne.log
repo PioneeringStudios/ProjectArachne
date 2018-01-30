@@ -1,0 +1,1117 @@
+﻿Log file open, 01/28/18 15:04:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectArachne
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(231577012) SRandInit(231577012).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.154480
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Binaries/Win64/UE4Editor-ProjectArachne.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.28-23.05.00:427][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-23.05.00:427][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.28-23.05.00:435][  0]LogInit: Computer: DESKTOP-U5DOCDN
+[2018.01.28-23.05.00:435][  0]LogInit: User: JaredMills
+[2018.01.28-23.05.00:435][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.28-23.05.00:435][  0]LogInit: High frequency timer resolution =4.101562 MHz
+[2018.01.28-23.05.00:435][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.01.28-23.05.00:435][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.28-23.05.00:435][  0]LogMemory: Process Physical Memory: 272.69 MB used, 272.69 MB peak
+[2018.01.28-23.05.00:435][  0]LogMemory: Process Virtual Memory: 269.50 MB used, 269.50 MB peak
+[2018.01.28-23.05.00:435][  0]LogMemory: Physical Memory: 3681.91 MB used,  12666.75 MB free, 16348.66 MB total
+[2018.01.28-23.05.00:435][  0]LogMemory: Virtual Memory: 644.08 MB used,  12666.75 MB free, 134217728.00 MB total
+[2018.01.28-23.05.00:535][  0]LogInit: Using OS detected language (en-US).
+[2018.01.28-23.05.00:535][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.28-23.05.00:536][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.28-23.05.00:832][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.28-23.05.00:995][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.28-23.05.01:052][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.01.28-23.05.01:052][  0]LogD3D11RHI:       11132/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.28-23.05.01:053][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.28-23.05.01:053][  0]LogD3D11RHI:       0/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.28-23.05.01:053][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.28-23.05.01:057][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.28-23.05.01:057][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.28-23.05.01:057][  0]LogWindows: EnumDisplayDevices:
+[2018.01.28-23.05.01:057][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.01.28-23.05.01:058][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.01.28-23.05.01:058][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.01.28-23.05.01:058][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.01.28-23.05.01:058][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.01.28-23.05.01:058][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.01.28-23.05.01:058][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.01.28-23.05.01:058][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.01.28-23.05.01:058][  0]LogRHI: Texture pool is 7792 MB (70% of 11132 MB)
+[2018.01.28-23.05.01:086][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.28-23.05.01:116][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.28-23.05.01:167][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Intermediate/Shaders/WorkingDirectory/3860/).
+[2018.01.28-23.05.01:167][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jared Mills/AppData/Local/Temp/UnrealShaderWorkingDir/26DEA36B4E5C9CEA6CE586BFBAD7CB62/'.
+[2018.01.28-23.05.01:167][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.28-23.05.01:795][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.28-23.05.01:831][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.28-23.05.01:866][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.28-23.05.01:901][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.28-23.05.01:937][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.28-23.05.01:973][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.28-23.05.02:008][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.28-23.05.02:043][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.28-23.05.02:074][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.28-23.05.02:107][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.28-23.05.02:142][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.28-23.05.02:177][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.28-23.05.02:212][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.28-23.05.02:247][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.28-23.05.02:316][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.28-23.05.02:316][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.28-23.05.02:350][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.28-23.05.02:378][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.28-23.05.02:451][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.28-23.05.02:469][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.28-23.05.02:504][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.28-23.05.02:538][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.28-23.05.02:573][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.28-23.05.02:609][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.28-23.05.02:609][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.28-23.05.02:925][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.28-23.05.02:996][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Jared Mills/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.28-23.05.02:996][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jared Mills/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.28-23.05.02:996][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.28-23.05.02:996][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.28-23.05.02:996][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.28-23.05.02:996][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.28-23.05.03:009][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.28-23.05.03:021][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jared Mills/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.28-23.05.03:029][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.28-23.05.03:029][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.28-23.05.03:029][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-23.05.03:029][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-23.05.03:275][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-23.05.03:506][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.28-23.05.03:534][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.28-23.05.03:534][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.28-23.05.03:534][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.28-23.05.03:534][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.28-23.05.03:534][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.28-23.05.03:553][  0]LogNetVersion: ProjectArachne , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1282563010)
+[2018.01.28-23.05.03:680][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2018.01.28-23.05.04:042][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.036850 seconds
+[2018.01.28-23.05.04:046][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.28-23.05.04:046][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.01.28-23.05.04:046][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.28-23.05.04:082][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.28-23.05.05:961][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.28-23.05.05:993][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.28-23.05.06:505][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.28-23.05.06:796][  0]SourceControl: Source control is disabled
+[2018.01.28-23.05.06:796][  0]SourceControl: Source control is disabled
+[2018.01.28-23.05.06:832][  0]SourceControl: Source control is disabled
+[2018.01.28-23.05.06:867][  0]SourceControl: Source control is disabled
+[2018.01.28-23.05.07:410][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.28-23.05.07:589][  0]LogOcInput: OculusInput pre-init called
+[2018.01.28-23.05.07:773][  0]LogEngine: Initializing Engine...
+[2018.01.28-23.05.07:774][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.28-23.05.07:937][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.28-23.05.07:937][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.28-23.05.08:024][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.28-23.05.08:029][  0]LogInit: XAudio2 using 'ELEFT195-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-23.05.08:043][  0]LogInit: FAudioDevice initialized.
+[2018.01.28-23.05.08:114][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/Jared Mills/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.28-23.05.08:127][  0]LogInit: Texture streaming: Enabled
+[2018.01.28-23.05.08:194][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.28-23.05.08:282][  0]LogInit: Transaction tracking system initialized
+[2018.01.28-23.05.08:492][  0]BlueprintLog: New page: Editor Load
+[2018.01.28-23.05.09:086][  0]LocalizationService: Localization service is disabled
+[2018.01.28-23.05.09:579][  0]LogConsoleResponse: Display: 
+[2018.01.28-23.05.09:707][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.28-23.05.09:707][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.28-23.05.09:707][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.28-23.05.10:066][  0]LogFileCache: Scanning file cache for directory 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/' took 0.01s
+[2018.01.28-23.05.10:495][  0]SourceControl: Source control is disabled
+[2018.01.28-23.05.10:495][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-23.05.10:495][  0]LightingResults: New page: Lighting Build
+[2018.01.28-23.05.10:523][  0]MapCheck: New page: Map Check
+[2018.01.28-23.05.10:523][  0]LightingResults: New page: Lighting Build
+[2018.01.28-23.05.10:677][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.28-23.05.10:681][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-23.05.10:689][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-23.05.10:720][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 30.832ms to complete.
+[2018.01.28-23.05.10:720][  0]LogFileHelpers: Loading map 'Template_Default' took 0.225
+[2018.01.28-23.05.10:822][  0]LogCollectionManager: Loaded 0 collections in 0.001005 seconds
+[2018.01.28-23.05.10:886][  0]LogFileCache: Scanning file cache for directory 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Saved/Collections/' took 0.01s
+[2018.01.28-23.05.10:886][  0]LogFileCache: Scanning file cache for directory 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Developers/JaredMills/Collections/' took 0.01s
+[2018.01.28-23.05.10:886][  0]LogFileCache: Scanning file cache for directory 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Collections/' took 0.01s
+[2018.01.28-23.05.10:886][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.28-23.05.10:892][  0]LogContentBrowser: Native class hierarchy populated in 0.0062 seconds. Added 2364 classes and 521 folders.
+[2018.01.28-23.05.10:935][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.28-23.05.10:959][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.28-23.05.10:988][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.28-23.05.11:014][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-23.05.11:016][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.28-23.05.11:019][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.28-23.05.11:085][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2018.01.28-23.05.11:193][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.28-23.05.11:193][  0]LogLoad: (Engine Initialization) Total time: 12.56 seconds
+[2018.01.28-23.05.11:193][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.28-23.05.11:193][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.28-23.05.11:202][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.28-23.05.11:217][  0]LogAssetRegistry: Asset discovery search completed in 7.5585 seconds
+[2018.01.28-23.05.11:218][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.28-23.05.11:218][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2018.01.28-23.05.11:220][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.28-23.05.11:253][  0]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-23.05.15:586][518]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-23.05.16:195][518]LogAIModule: Creating AISystem for world SpaceStation
+[2018.01.28-23.05.16:275][518]Cmd: MAP LOAD FILE="D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Maps/SpaceStation.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-23.05.16:275][518]LightingResults: New page: Lighting Build
+[2018.01.28-23.05.16:276][518]LoadErrors: New page: Loading map: SpaceStation.umap
+[2018.01.28-23.05.16:276][518]MapCheck: New page: Map Check
+[2018.01.28-23.05.16:276][518]LightingResults: New page: Lighting Build
+[2018.01.28-23.05.16:300][518]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-23.05.16:323][518]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-23.05.16:361][518]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37.691ms to complete.
+[2018.01.28-23.05.16:361][518]LogFileHelpers: Loading map 'SpaceStation' took 0.086
+[2018.01.28-23.05.35:467][792]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-23.05.35:488][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-23.05.35:488][792]PIE: New page: PIE session: SpaceStation (Jan 28, 2018, 7:05:35 AM)
+[2018.01.28-23.05.35:488][792]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceStation
+[2018.01.28-23.05.35:511][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022938s)
+[2018.01.28-23.05.35:512][792]LogAIModule: Creating AISystem for world SpaceStation
+[2018.01.28-23.05.35:512][792]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.01.28-23.05.35:512][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceStation.SpaceStation to /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation (0.024090s)
+[2018.01.28-23.05.35:521][792]LogInit: XAudio2 using 'ELEFT195-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-23.05.35:526][792]LogInit: FAudioDevice initialized.
+[2018.01.28-23.05.35:589][792]LogLinker: Warning: Can't find file '/Game/M_my_flare'
+[2018.01.28-23.05.35:589][792]LogLinker: Warning: Can't find file for asset '/Game/M_my_flare' while loading D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Particles/P_Logo_Flare.uasset.
+[2018.01.28-23.05.35:589][792]LoadErrors: Error: /Game/Particles/P_Logo_Flare : Can't find file for asset. /Game/M_my_flare
+[2018.01.28-23.05.35:589][792]LogLinker: Warning: Can't find file '/Game/M_my_flare'
+[2018.01.28-23.05.35:589][792]LogLinker: Warning: Can't find file for asset '/Game/M_my_flare' while loading D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Particles/P_Logo_Flare.uasset.
+[2018.01.28-23.05.35:600][792]LogLinker: Warning: Can't find file '/Game/M_my_flare'
+[2018.01.28-23.05.35:600][792]LoadErrors: Failed to load /Game/M_my_flare.m_my_flare Referenced by ParticleModuleRequired_4
+[2018.01.28-23.05.35:600][792]LogLinker: Warning: Can't find file for asset '/Game/M_my_flare' while loading NULL.
+[2018.01.28-23.05.35:615][792]LogLoad: Game class is 'MyGameMode_C'
+[2018.01.28-23.05.35:625][792]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation up for play (max tick rate 0) at 2018.01.28-15.05.35
+[2018.01.28-23.05.35:626][792]LogWorld: Bringing up level for play took: 0.009142
+[2018.01.28-23.05.35:655][792]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.01.28-23.05.35:657][792]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceStation 0.596
+[2018.01.28-23.05.49:907][496]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-23.05.49:907][496]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.49:907][496]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-23.05.49:907][496]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.50:911][616]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-23.05.50:911][616]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.50:911][616]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-23.05.50:911][616]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.52:361][790]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-23.05.52:361][790]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.52:361][790]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-23.05.52:361][790]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.52:462][802]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-23.05.52:462][802]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.52:462][802]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-23.05.52:462][802]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.53:213][892]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-23.05.53:214][892]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.53:214][892]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-23.05.53:214][892]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.53:313][904]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-23.05.53:313][904]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.53:313][904]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-23.05.53:313][904]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.53:930][978]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-23.05.53:930][978]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.53:930][978]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-23.05.53:930][978]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.54:572][ 55]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-23.05.54:572][ 55]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.54:572][ 55]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:01D1
+[2018.01.28-23.05.54:572][ 55]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.57:279][380]LogScript: Warning: Accessed None trying to read property WeaponArrow
+	AssaultChr_BP_C /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation:PersistentLevel.AssaultChr_BP_C_0
+	Function /Game/BluePrints/Chr_BPs/ParentChr_BP.ParentChr_BP_C:Shooting:0147
+[2018.01.28-23.05.57:280][380]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.57:280][380]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.57:722][433]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.05.57:722][433]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.03:338][107]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.03:338][107]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.03:437][119]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.03:437][119]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.04:172][207]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.04:172][207]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.04:530][250]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.04:530][250]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.05:038][311]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.05:039][311]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.05:830][406]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.05:830][406]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.05:963][422]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.05:964][422]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:063][434]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:063][434]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:163][446]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:163][446]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:288][461]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:288][461]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:388][473]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:388][473]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:488][485]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:488][485]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:588][497]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:588][497]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:688][509]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:688][509]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:788][521]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:788][521]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:888][533]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:888][533]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:988][545]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.06:988][545]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:088][557]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:088][557]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:188][569]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:188][569]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:288][581]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:288][581]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:388][593]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:388][593]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:488][605]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:488][605]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:588][617]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:588][617]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:688][629]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:688][629]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:788][641]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:788][641]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:888][653]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:888][653]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:988][665]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.07:988][665]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.08:088][677]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.08:089][677]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.08:188][689]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.08:188][689]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.08:288][701]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.08:289][701]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.23:109][438]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.23:109][438]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.23:476][482]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.23:476][482]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.23:575][494]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.23:575][494]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.23:734][513]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.23:735][513]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.23:893][532]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.23:893][532]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.23:993][544]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.23:993][544]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.24:093][556]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.24:093][556]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.24:193][568]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.24:193][568]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.24:292][580]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.24:293][580]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.24:392][592]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.24:393][592]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.30:701][349]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.30:701][349]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.30:801][361]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.30:801][361]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.30:901][373]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.30:901][373]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:001][385]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:001][385]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:101][397]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:101][397]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:201][409]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:201][409]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:301][421]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:301][421]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:401][433]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:401][433]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:501][445]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:501][445]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:601][457]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:601][457]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:701][469]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:701][469]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:801][481]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:801][481]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:901][493]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.31:901][493]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.32:001][505]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.32:001][505]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.32:101][517]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.32:101][517]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.32:201][529]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.32:201][529]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.32:302][541]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.32:302][541]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.32:402][553]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.32:402][553]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.32:502][565]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.32:502][565]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.32:602][577]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.32:602][577]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.36:145][994]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.36:145][994]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.36:678][ 58]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.36:679][ 58]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.43:112][830]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.43:112][830]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.45:613][130]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.45:613][130]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.46:704][261]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.46:704][261]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.47:470][353]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.47:471][353]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.50:996][776]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.50:996][776]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.56:313][414]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.56:313][414]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.56:663][456]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.56:663][456]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.56:763][468]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.56:763][468]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.56:863][480]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.56:863][480]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.56:963][492]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.56:963][492]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.57:063][504]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.57:063][504]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.57:705][581]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.57:705][581]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.57:805][593]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.57:805][593]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.57:905][605]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.57:905][605]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.58:005][617]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.58:005][617]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:156][755]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:156][755]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:255][767]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:255][767]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:356][779]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:356][779]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:455][791]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:456][791]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:556][803]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:556][803]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:655][815]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:656][815]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:756][827]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:756][827]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:855][839]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:856][839]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:956][851]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.06.59:956][851]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.07.00:055][863]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.07.00:056][863]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.07.00:156][875]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.07.00:156][875]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.07.00:255][887]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.07.00:256][887]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.07.03:849][318]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.07.03:849][318]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.07.03:949][330]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.07.03:949][330]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.07.04:476][393]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.07.04:476][393]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.07.18:438][822]LogTexture: Display: Building textures: Material__25_Metallic (AutoDXT, 1024X2048)
+[2018.01.28-23.07.18:438][822]LogTexture: Display: Building textures: Material__25_Normal_OpenGL (BC5, 1024X2048)
+[2018.01.28-23.07.18:438][822]LogTexture: Display: Building textures: BaseMaterial__Normal_ (AutoDXT, 1024X2048)
+[2018.01.28-23.07.18:438][822]LogTexture: Display: Building textures: Material__25_Base_Color (AutoDXT, 1024X2048)
+[2018.01.28-23.07.18:438][822]LogTexture: Display: Building textures: New_Graph_metallic (AutoDXT, 2048X2048)
+[2018.01.28-23.07.18:438][822]LogTexture: Display: Building textures: New_Graph_basecolor (AutoDXT, 2048X2048)
+[2018.01.28-23.07.18:438][822]LogTexture: Display: Building textures: New_Graph_roughness (AutoDXT, 2048X2048)
+[2018.01.28-23.07.18:438][822]LogTexture: Display: Building textures: New_Graph_normal (BC5, 2048X2048)
+[2018.01.28-23.07.18:438][822]LogMaterial: Missing cached shader map for material Material__27, compiling. 
+[2018.01.28-23.07.19:596][822]LogStaticMesh: Building static mesh floor_s...
+[2018.01.28-23.07.19:600][822]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-23.07.19:611][822]LogStaticMesh: Built static mesh [0.01s] /Game/Models/hallway/floor_s.floor_s
+[2018.01.28-23.07.19:732][822]LogMaterial: Missing cached shader map for material Material__0, compiling. 
+[2018.01.28-23.07.19:793][822]LogActorFactory: Actor Factory created floor_s
+[2018.01.28-23.07.20:361][885]LogActorFactory: Actor Factory created floor_s
+[2018.01.28-23.07.21:200][984]LogActorFactory: Actor Factory created floor_s
+[2018.01.28-23.07.28:255][804]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (floor_s)
+[2018.01.28-23.07.36:740][807]LogStaticMesh: Building static mesh wall_300...
+[2018.01.28-23.07.36:750][807]LogStaticMesh: Built static mesh [0.01s] /Game/Models/hallway/wall_300.wall_300
+[2018.01.28-23.07.36:910][825]LogActorFactory: Actor Factory created wall_300
+[2018.01.28-23.07.38:267][987]LogActorFactory: Actor Factory created wall_300
+[2018.01.28-23.07.46:191][912]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-23.07.46:201][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-23.07.46:201][912]PIE: New page: PIE session: SpaceStation (Jan 28, 2018, 7:07:46 AM)
+[2018.01.28-23.07.46:201][912]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SpaceStation
+[2018.01.28-23.07.46:223][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022180s)
+[2018.01.28-23.07.46:223][912]LogAIModule: Creating AISystem for world SpaceStation
+[2018.01.28-23.07.46:223][912]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2018.01.28-23.07.46:224][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SpaceStation.SpaceStation to /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation (0.023035s)
+[2018.01.28-23.07.46:235][912]LogInit: XAudio2 using 'ELEFT195-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-23.07.46:239][912]LogInit: FAudioDevice initialized.
+[2018.01.28-23.07.46:268][912]LogLoad: Game class is 'MyGameMode_C'
+[2018.01.28-23.07.46:278][912]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SpaceStation.SpaceStation up for play (max tick rate 0) at 2018.01.28-15.07.46
+[2018.01.28-23.07.46:278][912]LogWorld: Bringing up level for play took: 0.009854
+[2018.01.28-23.07.46:281][912]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SpaceStation -0.781
+[2018.01.28-23.08.22:135][210]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.22:135][210]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.23:134][330]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.23:134][330]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.25:709][639]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.25:709][639]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.26:301][710]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.26:301][710]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.26:401][722]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.26:401][722]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.26:501][734]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.26:501][734]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.26:601][746]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.26:601][746]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.26:701][758]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.26:701][758]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.26:801][770]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.26:801][770]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.26:901][782]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.26:901][782]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.27:001][794]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.27:001][794]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.27:101][806]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.27:101][806]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.30:502][214]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.30:502][214]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.30:601][226]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.30:601][226]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.30:701][238]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.30:701][238]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.30:801][250]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.30:801][250]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.30:901][262]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.30:901][262]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.31:352][316]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.31:352][316]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.31:451][328]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.31:451][328]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.31:551][340]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.31:552][340]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.31:651][352]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.31:651][352]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.31:751][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.31:751][364]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.31:851][376]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.31:851][376]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.31:951][388]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.31:952][388]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.34:385][680]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.34:385][680]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.34:485][692]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.34:485][692]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.34:969][750]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.34:969][750]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.35:069][762]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.35:069][762]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.36:178][895]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.36:178][895]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.36:277][907]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.36:277][907]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.39:904][342]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.39:904][342]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:003][354]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:003][354]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:103][366]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:103][366]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:203][378]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:203][378]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:303][390]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:303][390]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:403][402]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:403][402]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:503][414]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:503][414]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:603][426]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:603][426]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:703][438]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:703][438]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:803][450]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:803][450]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:903][462]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.40:903][462]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:003][474]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:003][474]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:103][486]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:103][486]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:203][498]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:203][498]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:303][510]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:303][510]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:403][522]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:403][522]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:503][534]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:503][534]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:604][546]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:604][546]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:703][558]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:703][558]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:803][570]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:803][570]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:903][582]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.41:903][582]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:003][594]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:003][594]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:103][606]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:103][606]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:203][618]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:203][618]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:303][630]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:303][630]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:403][642]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:403][642]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:503][654]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:504][654]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:603][666]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:603][666]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:703][678]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:704][678]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:803][690]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.42:803][690]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.53:747][  3]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.53:747][  3]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.53:847][ 15]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.53:847][ 15]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.53:948][ 27]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.53:948][ 27]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.54:048][ 39]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.54:048][ 39]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.54:149][ 51]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.54:149][ 51]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.54:249][ 63]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.54:249][ 63]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.54:350][ 75]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.54:350][ 75]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.54:450][ 87]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.08.54:450][ 87]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.09.02:368][ 37]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.09.02:368][ 37]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.09.02:468][ 49]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.09.02:468][ 49]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property WeaponArrow from function: 'Shooting' from node: SpawnActor Gun Projectile BP in graph: Shooting in object: ParentChr_BP with description: Accessed None trying to read property WeaponArrow
+[2018.01.28-23.09.13:309][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpaceStation" FILE="D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Maps/SpaceStation.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.28-23.09.13:808][320]LogSavePackage: Save=486.55ms
+[2018.01.28-23.09.13:808][320]LogSavePackage: Moving 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Saved/SpaceStation24B506BF4E1C7D2A7D27539B1A5ECBC1.tmp' to 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Maps/SpaceStation.umap'
+[2018.01.28-23.09.13:811][320]LogSavePackage: Display: Finished SavePackage D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Maps/SpaceStation.umap
+[2018.01.28-23.09.13:826][320]LogFileHelpers: Saving map 'SpaceStation' took 0.559
+[2018.01.28-23.09.42:428][459]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.28-23.09.42:576][460]Cmd: QUIT_EDITOR
+[2018.01.28-23.09.43:196][460]LogExit: Preparing to exit.
+[2018.01.28-23.09.44:105][460]LogExit: Editor shut down
+[2018.01.28-23.09.44:106][460]LogExit: Transaction tracking system shut down
+[2018.01.28-23.09.44:190][460]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.28-23.09.44:190][460]LogDirectoryWatcher: A directory notification for 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/' was aborted.
+[2018.01.28-23.09.44:190][460]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.28-23.09.44:190][460]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.28-23.09.44:190][460]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.28-23.09.44:190][460]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.28-23.09.44:190][460]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.28-23.09.44:223][460]LogExit: Object subsystem successfully closed.
+[2018.01.28-23.09.44:239][460]LogD3D11RHI: Shutdown
+[2018.01.28-23.09.44:239][460]LogD3D11RHI: CleanupD3DDevice
+[2018.01.28-23.09.44:240][460]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.28-23.09.44:249][460]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.01.28-23.09.44:249][460]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.01.28-23.09.44:249][460]LogModuleManager: Shutting down and abandoning module DesktopPlatform (550)
+[2018.01.28-23.09.44:249][460]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.01.28-23.09.44:249][460]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.01.28-23.09.44:249][460]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.01.28-23.09.44:250][460]LogDirectoryWatcher: A directory notification for 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Collections/' was aborted.
+[2018.01.28-23.09.44:250][460]LogDirectoryWatcher: A directory notification for 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Content/Developers/JaredMills/Collections/' was aborted.
+[2018.01.28-23.09.44:250][460]LogDirectoryWatcher: A directory notification for 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Saved/Collections/' was aborted.
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.28-23.09.44:250][460]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.28-23.09.44:251][460]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.28-23.09.44:419][460]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.28-23.09.44:420][460]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.28-23.09.44:420][460]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.28-23.09.44:420][460]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.28-23.09.44:420][460]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.28-23.09.44:420][460]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.28-23.09.44:420][460]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.28-23.09.44:420][460]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.28-23.09.44:472][460]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.28-23.09.44:472][460]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.28-23.09.44:472][460]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.28-23.09.44:472][460]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.28-23.09.44:472][460]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.28-23.09.44:472][460]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.28-23.09.44:472][460]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.28-23.09.44:472][460]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.28-23.09.44:472][460]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.28-23.09.44:472][460]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.28-23.09.44:473][460]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.01.28-23.09.44:511][460]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.01.28-23.09.44:512][460]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.01.28-23.09.44:512][460]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.01.28-23.09.44:512][460]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.01.28-23.09.44:512][460]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.01.28-23.09.44:512][460]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.01.28-23.09.44:512][460]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.01.28-23.09.44:512][460]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.01.28-23.09.44:512][460]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.01.28-23.09.44:512][460]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.01.28-23.09.44:512][460]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.01.28-23.09.44:512][460]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.01.28-23.09.44:512][460]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.01.28-23.09.44:512][460]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.01.28-23.09.44:512][460]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.01.28-23.09.44:513][460]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.01.28-23.09.44:513][460]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.01.28-23.09.44:513][460]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.01.28-23.09.44:513][460]LogDirectoryWatcher: A directory notification for 'D:/pioneeringStudios/ProjectArachne/ProjectArachne 4.18/Binaries/Win64' was aborted.
+[2018.01.28-23.09.44:513][460]LogModuleManager: Shutting down and abandoning module ProjectArachne (270)
+[2018.01.28-23.09.44:513][460]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.28-23.09.44:513][460]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.28-23.09.44:513][460]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.28-23.09.44:513][460]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.28-23.09.44:513][460]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.28-23.09.44:513][460]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.28-23.09.44:513][460]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.28-23.09.44:513][460]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.28-23.09.44:614][460]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.28-23.09.45:041][460]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.28-23.09.45:041][460]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.28-23.09.45:041][460]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.28-23.09.45:041][460]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.28-23.09.45:041][460]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.28-23.09.45:041][460]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.28-23.09.45:042][460]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.28-23.09.45:042][460]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.28-23.09.45:042][460]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.28-23.09.45:042][460]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.28-23.09.45:042][460]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.28-23.09.45:042][460]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.28-23.09.45:042][460]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.28-23.09.45:042][460]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.28-23.09.45:042][460]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.28-23.09.45:042][460]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.28-23.09.45:048][460]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.28-23.09.45:050][460]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.28-23.09.45:050][460]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.28-23.09.45:050][460]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.28-23.09.45:050][460]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.28-23.09.45:050][460]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.28-23.09.45:050][460]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.28-23.09.45:050][460]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.28-23.09.45:050][460]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.28-23.09.45:051][460]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.28-23.09.45:051][460]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.28-23.09.45:051][460]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.28-23.09.45:051][460]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.28-23.09.45:051][460]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.28-23.09.45:051][460]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.28-23.09.45:051][460]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.28-23.09.45:051][460]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.28-23.09.45:051][460]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.28-23.09.45:056][460]LogDerivedDataCache: Shutdown
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.28-23.09.45:056][460]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.28-23.09.45:057][460]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.28-23.09.45:057][460]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.28-23.09.45:057][460]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.28-23.09.45:057][460]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.28-23.09.45:057][460]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.28-23.09.45:057][460]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.28-23.09.45:057][460]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.28-23.09.45:057][460]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.28-23.09.45:057][460]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.28-23.09.45:057][460]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.28-23.09.45:057][460]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.28-23.09.45:057][460]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.28-23.09.45:057][460]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.28-23.09.45:057][460]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9472471B-4F0B-13B0-9FB0-84A0E83AD9E1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=c1993cfb42b0596195eae8af986de7ec%7C0b9db021556043618963c05c446187a1%7Ceff9ae66-0bdf-43a4-a5f6-a689dbc9f69a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.28-23.09.45:072][460]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.28-23.09.45:073][460]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.28-23.09.45:073][460]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.28-23.09.45:073][460]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.28-23.09.45:073][460]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.28-23.09.45:073][460]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.28-23.09.45:073][460]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.28-23.09.45:073][460]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.28-23.09.45:074][460]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.28-23.09.45:074][460]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.28-23.09.45:074][460]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.28-23.09.45:074][460]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.28-23.09.45:074][460]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.28-23.09.45:074][460]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.28-23.09.45:074][460]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.28-23.09.45:074][460]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.28-23.09.45:074][460]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.28-23.09.45:074][460]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.28-23.09.45:074][460]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.28-23.09.45:076][460]LogExit: Exiting.
+[2018.01.28-23.09.45:083][460]Log file closed, 01/28/18 15:09:45
