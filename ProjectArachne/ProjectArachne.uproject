@@ -19,6 +19,14 @@
 		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
+		},
+		{
+			"Name": "GOAPer",
+			"Enabled": false
+		},
+		{
+			"Name": "CoverGenerator",
+			"Enabled": true
 		}
 	]
 }
